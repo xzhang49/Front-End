@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+    
+    /* Remove the jumbotron's default bottom margin */ 
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #ffc000;
+    height: 170px;
+}
+  
+    /* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+.pimg {
+
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.subh {
+  font-weight: 600;
+  font-family: 'Curlz MT', serif;
+  font-size: 30px;
+  color: #cc0000;
+}
+
+
+.intro {
+  font-family: 'Candara', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ffffff;
+}
